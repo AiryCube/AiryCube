@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vinícius Figueiredo   @AiryCube
 - 👀 I’m interested in data scince and artificial inteligence aplications 
 - 💞️ I’m looking to collaborate on any porject that could inteligent systems 
-- 📫 How to reach me viniciusfgieureido@hotmail.com  
+- 📫 How to reach me viniciusfigueiredo@hotmail.com 
 
 <!---
 AiryCube/AiryCube is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
